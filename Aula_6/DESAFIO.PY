@@ -1,4 +1,4 @@
-def data_escrita(data):  
+def dataImpressa(data):  
     dia = int(data[:2])
     mes = data[3:5]
     ano = int(data[6:])
@@ -75,4 +75,4 @@ def data_escrita(data):
   
 data = input("Digite uma data (Formato DD/MM/AAA): ")
 
-data_escrita(data)
+dataImpressa(data)
