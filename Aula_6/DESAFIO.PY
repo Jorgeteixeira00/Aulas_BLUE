@@ -46,19 +46,19 @@ def dataImpressa(data):
             print (f"{dia} de Abril de {ano}.")
     elif mes == "06":
         if dia > 30:
-                print("Data Inválida!")
+            print("Data Inválida!")
         else:
-                print (f"{dia} de Junho de {ano}.")
+            print (f"{dia} de Junho de {ano}.")
     elif mes == "09":
         if dia > 30:
-                print("Data Inválida!")
+            print("Data Inválida!")
         else:
-                print (f"{dia} de Setembro de {ano}.")
+            print (f"{dia} de Setembro de {ano}.")
     elif mes == "11":
         if dia > 30:
-                print("Data Inválida!")
+            print("Data Inválida!")
         else:
-                print (f"{dia} de Novembro de {ano}.")
+            print (f"{dia} de Novembro de {ano}.")
 
     elif mes == "02": 
         if (ano % 4 == 0 or ano % 100 != 0) or ano % 400 == 0:
