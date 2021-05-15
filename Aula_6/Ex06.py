@@ -1,4 +1,4 @@
-#Escreva uma função que, dado um número nota representando a nota de um estudante, converte o valor de nota para um conceito (A, B, C, D, E e F).
+#Escreva uma função que, dado um número nota representando a nota de um estudante,  converte o valor de nota para um conceito (A, B, C, D, E e F).
 def classificacao(valor):
     if valor >=9:
         print('NOTA:A')

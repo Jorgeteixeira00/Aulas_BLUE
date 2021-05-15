@@ -1,4 +1,4 @@
-#Faça um programa que calcule através de uma função o IMC de uma pessoa que tenha 1,68 e pese 75kg.
+#Faça um programa que calcule através de uma função  o IMC de uma pessoa que tenha 1,68 e pese 75kg.
 '''def IMC(m=75,a=1.68):
     return m / a ** 2
 print(IMC())'''
