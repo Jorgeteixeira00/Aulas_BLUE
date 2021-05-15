@@ -80,7 +80,7 @@ def custoExtras(cidade, dias,gastos_extras):
 # viagem_cidade = input("Escolha qual o destino da sua viagem: ")
 # valid = viagem_cidade.lower().replace('ã', 'a').replace(' ', '_')
 # viagem_dias = int(input("Quantos dias deseja viajar: ")) 
-# gastos_ = float(input("Gastos extras: R$ "))
+# gastos_ = float(input("Gastos extras: R$ ")) 
 
 cidade = input('Escolha a cidade que deseja viajar:').strip().upper().replace('ã', 'a')
 dias = int(input('Quantos dias durara sua viagem?'))

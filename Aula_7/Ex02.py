@@ -1,4 +1,4 @@
-#Escreva uma função que recebe dois números (a e b) como parâmetro e retorna True caso a soma dos dois seja maior que um terceiro parâmetro, chamado limite.
+#Escreva uma função que recebe dois números (a e b)como parâmetro e retorna True caso a soma dos dois seja maior que um terceiro parâmetro, chamado limite.
 def maior_soma(a,b,l):
     if n1 + n2 > limite:
         print('A soma entre {} e {} é maior que o limite!'.format(n1,n2))
