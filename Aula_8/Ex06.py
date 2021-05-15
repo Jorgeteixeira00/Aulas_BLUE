@@ -1,4 +1,4 @@
-#Escreva um programa onde o usuário digita uma frase e essa frase retorna sem nenhuma vogal.
+#Escreva um programa onde o usuário digita uma frase e essa frase retorna sem nenhuma vogal. 
 
 frase = input("Digite uma frase: ")
 consoantes = []

@@ -4,7 +4,7 @@
 # menor valor da lista.
 # soma de todos os elementos da lista.
 # lista em ordem crescente.
-# lista em ordem decrescente.
+# lista em ordem decrescente. 
 lista = [5, 7, 2, 9, 4, 1, 3]
 print('Tamanho da lista:',len(lista))
 print('Maior valor da lista:',max(lista))

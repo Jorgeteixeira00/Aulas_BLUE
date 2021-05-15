@@ -1,4 +1,4 @@
-#Dada uma string com uma frase informada pelo usuário (incluindo espaços em branco), conte quantas vezes aparece uma vogal.
+#Dada uma string com uma frase informada pelo usuário (incluindo espaços em branco),  conte quantas vezes aparece uma vogal.
 # cont = 0
 # frase = str(input('Digite uma frase:'))
 # for x in range(len(frase)):

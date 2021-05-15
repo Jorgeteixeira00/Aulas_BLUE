@@ -1,6 +1,6 @@
 # Faça um jogo da forca. O programa terá uma lista de palavras lidas de
 # um arquivo texto e escolherá uma aleatoriamente. O jogador poderá
-# errar 6 vezes antes de ser enforcado. 
+# errar 6 vezes antes de ser enforcado.  
 
 import random
 lista = input('Digite uma lista de palavras separadas por espaço:')
