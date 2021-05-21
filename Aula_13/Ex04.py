@@ -90,7 +90,7 @@ def exibir_media():
         media = soma/len(alunos)
     else:
         media = 0.0
-    print(f"\tA média da turma é {media:.2f}.")
+    print(f"\tA média da turma é {media:.2f}.") 
 
 alunos = dict()
 menu()
